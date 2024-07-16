@@ -1,4 +1,3 @@
-```markdown
 # Machine Learning Notebooks
 
 This repository contains a series of Jupyter Notebooks covering various topics in machine learning and related fields. Below is a brief description of each notebook.
